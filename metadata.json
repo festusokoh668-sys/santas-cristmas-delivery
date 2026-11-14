@@ -1,0 +1,8 @@
+{
+  "name": "Santa's Christmas Delivery: The Great Holiday Maze",
+  "description": "Navigate 10 festive city mazes around the world as Santa Claus, collect real magic cookies, outsmart naughty kids' traps, deliver presents to glowing checkpoints, and unlock the Christmas portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
